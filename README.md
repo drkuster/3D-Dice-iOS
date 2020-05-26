@@ -1,7 +1,7 @@
 # 3D-Dice
 
 <p align="center">
-<img src="https://github.com/drkuster/3D-Dice-App/blob/master/3D%Dice%20Screenshots/3D-Dice.PNG?raw=true">
+<img src="https://github.com/drkuster/3D-Dice-App/blob/master/3D%20Dice%20Screenshots/3D-Dice.PNG?raw=true">
 </p>
 
 <p align="center">
